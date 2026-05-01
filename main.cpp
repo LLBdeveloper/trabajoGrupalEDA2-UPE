@@ -15,11 +15,14 @@ MATERIA:
 
 
 DOCENTE: 
-    .
+    Osvaldo Pini
 
 
 INTEGRANTES: 
-    .
+    Lautaro bertera
+    Ornella Gomez 
+    Pol y
+    Juan y
 
 
 CICLO: 
