@@ -67,10 +67,9 @@ La siguiente imagen muestra la tabla de distancias usada por el algoritmo.
 
 <p align="center">
   <a href="https://ibb.co/TqTM6dbm" target="_blank">
-    <img src="https://i.ibb.co/... (reemplazar con enlace directo a la imagen)" alt="Matriz de Adyacencia" width="500"/>
+    <img src="https://i.ibb.co/TqTM6dbm" alt="Matriz de Adyacencia" width="500"/>
   </a>
   <br/>
-  <sub>⚠️ Para ver la imagen incrustada correctamente, subí la captura a <a href="https://imgbb.com">imgbb</a> y usá el enlace directo (hotlink).</sub>
 </p>
 
 ---
