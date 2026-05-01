@@ -71,7 +71,7 @@ La siguiente imagen muestra la tabla de distancias usada por el algoritmo.
   </a>
   <br/>
 </p>
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/V0XcPxhc/matriz-Ady.png" alt="matriz Ady" border="0"></a>
 ---
 
 ## ⚙️ **Características Técnicas**
