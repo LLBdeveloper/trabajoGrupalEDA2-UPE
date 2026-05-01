@@ -65,13 +65,10 @@ Se seleccionaron **5 nodos estratégicos** con distancias entre 200 km y 300 km 
 La siguiente imagen muestra la tabla de distancias usada por el algoritmo.  
 `INF` = sin conexión directa, `0` = mismo nodo.
 
-<p align="center">
-  <a href="https://ibb.co/TqTM6dbm" target="_blank">
-    <img src="https://i.ibb.co/TqTM6dbm" alt="Matriz de Adyacencia" width="500"/>
-  </a>
-  <br/>
-</p>
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/V0XcPxhc/matriz-Ady.png" alt="matriz Ady" border="0"></a>
+<br/>
+
 ---
 
 ## ⚙️ **Características Técnicas**
